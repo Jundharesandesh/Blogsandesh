@@ -15,7 +15,7 @@ var posts = [];
 
 app.set('view engine', 'ejs');
 
-mongoose.connect("mongodb+srv://sandesh:sandesh@cluster0.fmegxto.mongodb.net/blogdb",{
+mongoose.connect("mongodb+srv://SANDESH:sandesh@cluster0.fmegxto.mongodb.net/blogdb",{
     useNewUrlParser: true
 });
 
